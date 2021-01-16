@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 ## My DIscord Bots :
 - Simple Music Bot / Simple Music Playing Bot!
 - SC Bot / Currently Working , Multipirpose
+
+[![Discord Bots](https://top.gg/api/widget/780838708664467456.svg)](https://top.gg/bot/780838708664467456)
