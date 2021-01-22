@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SC136)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
 <!-- Actual text -->
 
 You can find me on [![Discord][1.2]][1], or on [![YouTube][3.2]][3].
