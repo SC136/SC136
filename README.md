@@ -8,7 +8,7 @@
 
 ### Hi there 👋
 
-Here are some ideas to get you started:
+lol Read This:
 
 - 🔭 I’m currently working on ... SC Bot
 - 🌱 I’m currently learning ... Java & HTML
