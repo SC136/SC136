@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - SC Bot / Currently Working , Multipirpose
 
 [![Discord Bots](https://top.gg/api/widget/780838708664467456.svg)](https://top.gg/bot/780838708664467456)
+
+[![SC's github stats](https://github-readme-stats.vercel.app/api?username=SC136&show_icons=true&theme=radical)](https://github.com/SC136)
