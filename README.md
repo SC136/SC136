@@ -22,4 +22,22 @@ Here are some ideas to get you started:
 
 [![Discord Bots](https://top.gg/api/widget/780838708664467456.svg)](https://top.gg/bot/780838708664467456)
 
-[![SC's github stats](https://github-readme-stats.vercel.app/api?username=SC136&show_icons=true&theme=radical)](https://github.com/SC136)
+[![SC's github stats](https://github-readme-stats.vercel.app/api?username=SC136&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/SC136)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SC136)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+<!-- Actual text -->
+
+You can find me on [![Discord][1.2]][1], or on [![YouTube][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: Discord (twitter icon without padding)
+[2.2]: YouTube (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://discord.gg/UVWjuAh
+[2]: https://www.linkedin.com/in/heinz-martin/
