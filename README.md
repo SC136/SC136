@@ -25,6 +25,7 @@ lol Read This:
 
 [![Discord Bots](https://top.gg/api/widget/780838708664467456.svg)](https://top.gg/bot/780838708664467456)
 
+## My GitHub Stats :
 [![SC's github stats](https://github-readme-stats.vercel.app/api?username=SC136&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/SC136)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SC136)](https://github.com/anuraghazra/github-readme-stats)
