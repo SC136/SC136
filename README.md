@@ -53,4 +53,4 @@ You can find me on [![Discord][1.2]][1], or on [![YouTube][2.2]][2].
 
 ## Stats!!!
 
-![Metrics](https://metrics.lecoq.io/SC136?template=classic&followup=1&isocalendar=1&languages=1&pagespeed=1&pagespeed.detailed=false&pagespeed.screenshot=false&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta&config.animated=true)
+[![Metrics](https://metrics.lecoq.io/SC136?template=classic&followup=1&isocalendar=1&languages=1&pagespeed=1&pagespeed.detailed=false&pagespeed.screenshot=false&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta&config.animated=true)](https://github.com/SC136)
