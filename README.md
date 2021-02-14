@@ -26,7 +26,7 @@ lol Read This:
 - Simple Music Bot / Simple Music Playing Bot!
 - SC Bot / Currently Working , Multipirpose
 
-[![Discord Bots](https://top.gg/api/widget/780838708664467456.svg)](https://top.gg/bot/780838708664467456)
+[![Discord Bots](https://top.gg/api/widget/780838708664467456.svg)](https://top.gg/bot/780838708664467456) [![Bots for Discord](https://botsfordiscord.com/api/bot/780838708664467456/widget)](https://botsfordiscord.com/bots/780838708664467456)
 
 ## My GitHub Stats :
 [![SC's github stats](https://github-readme-stats.vercel.app/api?username=SC136&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/SC136)
