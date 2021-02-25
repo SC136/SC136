@@ -5,9 +5,9 @@
 ![](https://img.shields.io/badge/Laptop-HP-informational?style=flat&logo=hp&logoColor=white&color=00aaff)
 ![](https://img.shields.io/badge/Mobile-Samsung-informational?style=flat&logo=samsung&logoColor=white&color=00aaff)
 ![](https://img.shields.io/badge/Browser-Edge-informational?style=flat&logo=microsoft-edge&logoColor=white&color=00aaff)
-![Discord](https://img.shields.io/discord/594513706055106560?color=%237289DA&label=Discord&logo=Discord&logoColor=%237289DA)
+[![Discord](https://img.shields.io/discord/594513706055106560?color=%237289DA&label=Discord&logo=Discord&logoColor=%237289DA)](https://discord.gg/UVWjuAh)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SC136)
-![GitHub followers](https://img.shields.io/github/followers/SC136?style=social)
+[![GitHub followers](https://img.shields.io/github/followers/SC136?style=social)](https://github.com/sc136)
 
 ### Hi there 👋
 
