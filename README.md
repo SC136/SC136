@@ -35,14 +35,9 @@ lol Read This:
 
 <!-- Actual text -->
 
-You can find me on [![Discord][1.2]][1], or on [![YouTube][2.2]][2].
+You Can Find Me On [Discord][1], or on [YouTube][2].
 
 [![Support Server](https://invidget.switchblade.xyz/UVWjuAh)](https://discord.gg/UVWjuAh)
-
-<!-- Icons -->
-
-[1.2]: Discord (twitter icon without padding)
-[2.2]: YouTube (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
