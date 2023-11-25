@@ -26,7 +26,9 @@ lol Read This:
 - Simple Music Bot / Simple Music Playing Bot!
 - SC Bot / Currently Working , Multipirpose
 
-[![Discord Bots](https://top.gg/api/widget/780838708664467456.svg)](https://top.gg/bot/780838708664467456) [![Bots for Discord](https://botsfordiscord.com/api/bot/780838708664467456/widget)](https://botsfordiscord.com/bots/780838708664467456)
+<img align="right" width="400" height="330" src="https://spotify-recently-played-readme.vercel.app/api?user=codetheweb">
+
+[![Discord Bots](https://top.gg/api/widget/780838708664467456.svg)](https://top.gg/bot/780838708664467456)
 
 ## My GitHub Stats :
 [![SC's github stats](https://github-readme-stats.vercel.app/api?username=SC136&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/SC136)
@@ -45,6 +47,8 @@ You Can Find Me On [Discord][1], or on [YouTube][2].
 [2]: https://www.youtube.com/c/SCSmartTech
 
 ---
+
+<img align="right" width="400" height="330" src="https://spotify-recently-played-readme.vercel.app/api?user=vxsgbx1d31s54nju55e60oz7n">
 
 ## Stats!!!
 
