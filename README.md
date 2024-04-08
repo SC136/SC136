@@ -1,4 +1,4 @@
-# SC136 GitHub
+# Kon'nichiwa!
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=00aaff)
 ![](https://img.shields.io/badge/CodeEditor-VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=00aaff)
@@ -11,16 +11,18 @@
 
 ### Hi there 👋
 
-lol Read This:
+nothing much:
 
-- 🔭 I’m currently working on ... SC Bot
-- 🌱 I’m currently learning ... Java & HTML
-- 👯 I’m looking to collaborate on ... Hmmm
-- 🤔 I’m looking for help with ... HTML
-- 💬 Ask me about ... Anime AOT
-- 📫 How to reach me: ... Discord!
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Studying
+- 🌱 I’m currently learning C++
+- 👯 I’m looking to collaborate Study
+- 🤔 I’m looking for help with Study
+- 💬 Ask me about Anime, Tech & Gaming
+- 📫 How to reach me: [Discord: sc136](https://discord.com/users/594504468931018752)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: The nation animal of Scotland is a Unicorn.
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/594504468931018752)](https://discord.com/users/594504468931018752)
 
 ## My DIscord Bots :
 - Simple Music Bot / Simple Music Playing Bot!
