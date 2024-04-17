@@ -22,6 +22,8 @@ nothing much:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: The national animal of Scotland is a Unicorn.
 
+[![](https://discord.c99.nl/widget/theme-3/594504468931018752.png)](https://discord.com/users/594504468931018752)
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/594504468931018752)](https://discord.com/users/594504468931018752)
 
 ## My DIscord Bots :
