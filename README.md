@@ -50,8 +50,6 @@ You Can Find Me On [Discord][1], or on [YouTube][2].
 [1]: https://discord.gg/UVWjuAh
 [2]: https://www.youtube.com/c/SCSmartTech
 
----
-
-## Stats!!!
-
-[![Metrics](https://metrics.lecoq.io/SC136?template=classic&followup=1&isocalendar=1&languages=1&pagespeed=1&pagespeed.detailed=false&pagespeed.screenshot=false&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta&config.animated=true)](https://github.com/SC136)
+### NOte
+> [!NOTE]
+> idk what am i doing
