@@ -41,6 +41,8 @@ You Can Find Me On [Discord][1], or on [YouTube][2].
 
 [![Support Server](https://invidget.switchblade.xyz/UVWjuAh)](https://discord.gg/UVWjuAh)
 
+[![Discord Server](https://discordapp.com/api/guilds/594513706055106560/widget.png?style=banner2)](https://discord.gg/Yyb3Yjc)
+
 <!-- Links to your social media accounts -->
 
 [1]: https://discord.gg/UVWjuAh
