@@ -1,4 +1,4 @@
-# Kon'nichiwa!
+# Konnichiwa!
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=00aaff)
 ![](https://img.shields.io/badge/CodeEditor-VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=00aaff)
