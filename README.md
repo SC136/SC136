@@ -22,7 +22,7 @@ nothing much:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: The national animal of Scotland is a Unicorn.
 
-[![](https://discord.c99.nl/widget/theme-3/594504468931018752.png)](https://discord.com/users/594504468931018752)
+<img align="right" width="400" height="330" src="https://spotify-recently-played-readme.vercel.app/api?user=vxsgbx1d31s54nju55e60oz7n&unique=true">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/594504468931018752)](https://discord.com/users/594504468931018752)
 
@@ -36,11 +36,12 @@ nothing much:
 [![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=SC136&cc=000&tc=fff&ic=fff&bc=000)](https://guthub.com/SC136)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SC136)](https://github.com/SC136)
-<img align="right" width="400" height="330" src="https://spotify-recently-played-readme.vercel.app/api?user=vxsgbx1d31s54nju55e60oz7n&unique=true">
 
 ## Discord :
 
 You Can Find Me On [Discord][1], or on [YouTube][2].
+
+[![](https://discord.c99.nl/widget/theme-3/594504468931018752.png)](https://discord.com/users/594504468931018752)
 
 [![Support Server](https://invidget.switchblade.xyz/UVWjuAh)](https://discord.gg/UVWjuAh)
 
