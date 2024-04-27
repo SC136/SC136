@@ -33,11 +33,12 @@ nothing much:
 [![Discord Bots](https://top.gg/api/widget/780838708664467456.svg)](https://top.gg/bot/780838708664467456)
 
 ## My GitHub Stats :
-[![SC's github stats](https://github-readme-stats.vercel.app/api?username=SC136&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/SC136)
+[![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=SC136&cc=000&tc=fff&ic=fff&bc=000)](https://guthub.com/SC136)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SC136)](https://github.com/SC136)
 <img align="right" width="400" height="330" src="https://spotify-recently-played-readme.vercel.app/api?user=vxsgbx1d31s54nju55e60oz7n&unique=true">
-<!-- Actual text -->
+
+## Discord :
 
 You Can Find Me On [Discord][1], or on [YouTube][2].
 
