@@ -43,7 +43,7 @@ You Can Find Me On [Discord][1], or on [YouTube][2].
 
 [![](https://discord.c99.nl/widget/theme-3/594504468931018752.png)](https://discord.com/users/594504468931018752)
 
-[![Support Server](https://invidget.switchblade.xyz/UVWjuAh)](https://discord.gg/UVWjuAh)
+[![Support Server](https://invidget.switchblade.xyz/UVWjuAh)](https://discord.gg/Yyb3Yjc)
 
 [![Discord Server](https://discordapp.com/api/guilds/594513706055106560/widget.png?style=banner2)](https://discord.gg/Yyb3Yjc)
 
