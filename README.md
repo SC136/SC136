@@ -1,22 +1,20 @@
-# Konnichiwa!
+# Konnichiwa! 👋
 
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=00aaff)
+![](https://img.shields.io/badge/OS-Windows11-informational?style=flat&logo=Windows&logoColor=white&color=00aaff)
 ![](https://img.shields.io/badge/CodeEditor-VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=00aaff)
 ![](https://img.shields.io/badge/Laptop-HP-informational?style=flat&logo=hp&logoColor=white&color=00aaff)
-![](https://img.shields.io/badge/Mobile-Samsung-informational?style=flat&logo=samsung&logoColor=white&color=00aaff)
+![](https://img.shields.io/badge/Mobile-Xiaomi-informational?style=flat&logo=xiaomi&logoColor=white&color=00aaff)
 ![](https://img.shields.io/badge/Browser-Edge-informational?style=flat&logo=microsoft-edge&logoColor=white&color=00aaff)
 [![Discord](https://img.shields.io/discord/594513706055106560?color=%237289DA&label=Discord&logo=Discord&logoColor=%237289DA)](https://discord.gg/UVWjuAh)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SC136)
 [![GitHub followers](https://img.shields.io/github/followers/SC136?style=social)](https://github.com/sc136)
 
-### Hi there 👋
-
 nothing much:
 
-- 🔭 I’m currently working on Studying
+- 🔭 I’m currently working on life.
 - 🌱 I’m currently learning C++
-- 👯 I’m looking to collaborate on Study
-- 🤔 I’m looking for help with Study
+- 👯 I’m looking to collaborate on [NNDY](https://github.com/SC136/NNDY)
+- 🤔 I’m looking for help with [WeTall (Project Iron Flake)](https://github.com/SC136/WeTall)
 - 💬 Ask me about Anime, Tech & Gaming
 - 📫 How to reach me: [Discord: sc136](https://discord.com/users/594504468931018752)
 - 😄 Pronouns: he/him
@@ -26,9 +24,10 @@ nothing much:
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/594504468931018752)](https://discord.com/users/594504468931018752)
 
-## My DIscord Bots :
+## My DIscord Bots[DED: Not Maintained Anymore] :
 - Simple Music Bot / Simple Music Playing Bot!
 - SC Bot / Currently Working , Multipirpose
+- Scord / Top Tier HQ Discord Bot (spent my most of the time working on this one, but discontinued in the end 😔)
 
 [![Discord Bots](https://top.gg/api/widget/780838708664467456.svg)](https://top.gg/bot/780838708664467456)
 
