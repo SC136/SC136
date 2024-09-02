@@ -9,6 +9,12 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SC136)
 [![GitHub followers](https://img.shields.io/github/followers/SC136?style=social)](https://github.com/sc136)
 
+## My Website
+[sc.is-a.dev](https://sc.is-a.dev)
+
+## My Projects
+[/projects](https://sc.is-a.dev/projects)
+
 nothing much:
 
 - 🔭 I’m currently working on life.
