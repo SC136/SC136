@@ -24,7 +24,7 @@ nothing much:
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/594504468931018752)](https://discord.com/users/594504468931018752)
 
-## My DIscord Bots[DED: Not Maintained Anymore] :
+## My Discord Bots[DED: Not Maintained Anymore] :
 - Simple Music Bot / Simple Music Playing Bot!
 - SC Bot / Currently Working , Multipirpose
 - Scord / Top Tier HQ Discord Bot (spent my most of the time working on this one, but discontinued in the end 😔)
