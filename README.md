@@ -31,11 +31,9 @@ nothing much:
 [![Discord Presence](https://lanyard.cnrad.dev/api/594504468931018752)](https://discord.com/users/594504468931018752)
 
 ## My Discord Bots[DED: Not Maintained Anymore] :
-- Simple Music Bot / Simple Music Playing Bot!
-- SC Bot / Currently Working , Multipirpose
+- Simple Music Bot / Simple Music Playing Bot! (My Most Succesful Bot [Verified by Discord, 600+ Servers])
+- SC Bot / Too Many Features (But All Did Worked) , Multipirpose
 - Scord / Top Tier HQ Discord Bot (spent my most of the time working on this one, but discontinued in the end 😔)
-
-[![Discord Bots](https://top.gg/api/widget/780838708664467456.svg)](https://top.gg/bot/780838708664467456)
 
 ## My GitHub Stats :
 [![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=SC136&cc=000&tc=fff&ic=fff&bc=000)](https://guthub.com/SC136)
