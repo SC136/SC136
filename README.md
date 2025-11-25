@@ -1,60 +1,105 @@
-# Konnichiwa! 👋
+# 👋 Konnichiwa, I'm **Swar** (SC136)
 
-![](https://img.shields.io/badge/OS-Windows11-informational?style=flat&logo=Windows&logoColor=white&color=00aaff)
-![](https://img.shields.io/badge/CodeEditor-VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=00aaff)
-![](https://img.shields.io/badge/Laptop-Asus-informational?style=flat&logo=asus&logoColor=white&color=00aaff)
-![](https://img.shields.io/badge/Mobile-Samsung-informational?style=flat&logo=samsung&logoColor=white&color=00aaff)
-![](https://img.shields.io/badge/Browser-Edge-informational?style=flat&logo=microsoft-edge&logoColor=white&color=00aaff)
-[![Discord](https://img.shields.io/discord/594513706055106560?color=%237289DA&label=Discord&logo=Discord&logoColor=%237289DA)](https://discord.gg/UVWjuAh)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=SC136)
-[![GitHub followers](https://img.shields.io/github/followers/SC136?style=social)](https://github.com/sc136)
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SC136" />
+  <a href="https://discord.gg/UVWjuAh">
+    <img src="https://img.shields.io/discord/594513706055106560?color=7289DA&label=Discord&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://github.com/SC136?tab=followers">
+    <img src="https://img.shields.io/github/followers/SC136?style=social" />
+  </a>
+</p>
 
-## My Website
-[sc.is-a.dev](https://sc.is-a.dev)
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Windows_11-00aaff?style=flat&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Editor-VS_Code-00aaff?style=flat&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laptop-Asus-00aaff?style=flat&logo=asus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Phone-Samsung-00aaff?style=flat&logo=samsung&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Browser-Edge-00aaff?style=flat&logo=microsoft-edge&logoColor=white"/>
+</p>
 
-## My Projects
-[/projects](https://sc.is-a.dev/projects)
+---
 
-nothing much:
+## 🌐 Website  
+🔗 **https://sc.is-a.dev**
 
-- 🔭 I’m currently working on life.
-- 🌱 I’m currently learning C++
-- 👯 I’m looking to collaborate on [NNDY](https://github.com/SC136/NNDY)
-- 🤔 I’m looking for help with [WeTall (Project Iron Flake)](https://github.com/SC136/WeTall)
-- 💬 Ask me about Anime, Tech & Gaming
-- 📫 How to reach me: [Discord: sc136](https://discord.com/users/594504468931018752)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: The national animal of Scotland is a Unicorn.
+---
 
-<img align="right" width="400" height="330" src="https://spotify-recently-played-readme.vercel.app/api?user=vxsgbx1d31s54nju55e60oz7n&unique=true">
+## 🚀 Projects  
+🔗 **https://sc.is-a.dev/projects**
 
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Working on: **life** (and sometimes code)  
+- 🌱 Learning: **C++**  
+- 👯 Collaboration: **[NNDY](https://github.com/SC136/NNDY)**  
+- 🤝 Need help with: **[WeTall (Project Iron Flake)](https://github.com/SC136/WeTall)**  
+- 💬 Ask me about: **Anime, Tech, Gaming**  
+- 📫 Reach me: **[Discord — sc136](https://discord.com/users/594504468931018752)**  
+- 😄 Pronouns: **he/him**  
+- 🦄 Fun fact: *Scotland's national animal is the Unicorn.*
+
+---
+
+## 🎧 Spotify Recently Played  
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=vxsgbx1d31s54nju55e60oz7n&unique=true">
+
+---
+
+## 🟦 Discord Presence  
 [![Discord Presence](https://lanyard.cnrad.dev/api/594504468931018752)](https://discord.com/users/594504468931018752)
 
-## My Discord Bots[DED: Not Maintained Anymore] :
-- Simple Music Bot / Simple Music Playing Bot! (My Most Succesful Bot [Verified by Discord, 600+ Servers])
-- SC Bot / Too Many Features (But All Did Worked) , Multipirpose
-- Scord / Top Tier HQ Discord Bot (spent my most of the time working on this one, but discontinued in the end 😔)
+---
 
-## My GitHub Stats :
-[![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=SC136&cc=000&tc=fff&ic=fff&bc=000)](https://guthub.com/SC136)
+## 🤖 My Discord Bots *(Archived)*
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SC136)](https://github.com/SC136)
+- 🎶 **Simple Music Bot** — Verified, **600+ servers**  
+- 🧰 **SC Bot** — too many features, all worked somehow  
+- ⚙️ **Scord** — my most polished bot, discontinued 😔  
 
-## Discord :
+---
 
-You Can Find Me On [Discord][1], or on [YouTube][2].
+## 📊 GitHub Stats
 
-[![](https://discord.c99.nl/widget/theme-3/594504468931018752.png)](https://discord.com/users/594504468931018752)
+<p>
+  <a href="https://github.com/SC136">
+    <img src="https://github-stats-alpha.vercel.app/api?username=SC136&cc=000&tc=fff&ic=fff&bc=000" height="150"/>
+  </a>
+  <a href="https://github.com/SC136">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SC136&layout=compact" height="150"/>
+  </a>
+</p>
 
-[![Support Server](https://invidget.switchblade.xyz/UVWjuAh)](https://discord.gg/Yyb3Yjc)
+---
 
-[![Discord Server](https://discordapp.com/api/guilds/594513706055106560/widget.png?style=banner2)](https://discord.gg/Yyb3Yjc)
+## 💬 Socials
 
-<!-- Links to your social media accounts -->
+- ✨ **Discord:** [Join Here](https://discord.gg/UVWjuAh)  
+- ▶️ **YouTube:** [SCSmartTech](https://www.youtube.com/c/SCSmartTech)
 
-[1]: https://discord.gg/UVWjuAh
-[2]: https://www.youtube.com/c/SCSmartTech
+<p align="left">
+  <a href="https://discord.com/users/594504468931018752">
+    <img src="https://discord.c99.nl/widget/theme-3/594504468931018752.png" />
+  </a>
+</p>
 
-### NOte
-> [!NOTE]
-> idk what am i doing
+<p align="left">
+  <a href="https://discord.gg/Yyb3Yjc">
+    <img src="https://invidget.switchblade.xyz/UVWjuAh" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://discord.gg/Yyb3Yjc">
+    <img src="https://discordapp.com/api/guilds/594513706055106560/widget.png?style=banner2" />
+  </a>
+</p>
+
+---
+
+## 📝 Note  
+
+> [!NOTE]  
+> I still have no idea what I’m doing 😄  
