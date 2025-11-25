@@ -67,39 +67,22 @@
   <a href="https://github.com/SC136">
     <img src="https://github-stats-alpha.vercel.app/api?username=SC136&cc=000&tc=fff&ic=fff&bc=000" height="150"/>
   </a>
-  <a href="https://github.com/SC136">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SC136&layout=compact" height="150"/>
-  </a>
 </p>
 
 ---
 
-## 💬 Socials
-
-- ✨ **Discord:** [Join Here](https://discord.gg/UVWjuAh)  
-- ▶️ **YouTube:** [SCSmartTech](https://www.youtube.com/c/SCSmartTech)
-
-<p align="left">
-  <a href="https://discord.com/users/594504468931018752">
-    <img src="https://discord.c99.nl/widget/theme-3/594504468931018752.png" />
-  </a>
+## 🧰 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,py,js,html,css,arduino,linux,git,github,vscode,cloudflare&theme=dark" />
 </p>
+
+---
+
+## 💬 My Discord Server
+Anime, Programming, Memes, Gaming
 
 <p align="left">
   <a href="https://discord.gg/Yyb3Yjc">
     <img src="https://invidget.switchblade.xyz/UVWjuAh" />
   </a>
 </p>
-
-<p align="left">
-  <a href="https://discord.gg/Yyb3Yjc">
-    <img src="https://discordapp.com/api/guilds/594513706055106560/widget.png?style=banner2" />
-  </a>
-</p>
-
----
-
-## 📝 Note  
-
-> [!NOTE]  
-> I still have no idea what I’m doing 😄  
