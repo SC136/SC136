@@ -1,6 +1,8 @@
-# 👋 Konnichiwa, I'm **Swar** (SC136)
+# 👋 Konnichiwa, I am
+<img width="549" height="240" alt="swar" src="https://github.com/user-attachments/assets/7181c4e0-e7f4-47c2-be30-69b7ea9cfe4a" />
 
-<p align="center">
+
+<p>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SC136" />
   <a href="https://discord.gg/UVWjuAh">
     <img src="https://img.shields.io/discord/594513706055106560?color=7289DA&label=Discord&logo=discord&logoColor=white" />
@@ -10,7 +12,7 @@
   </a>
 </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/OS-Windows_11-00aaff?style=flat&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Editor-VS_Code-00aaff?style=flat&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laptop-Asus-00aaff?style=flat&logo=asus&logoColor=white"/>
@@ -18,48 +20,27 @@
   <img src="https://img.shields.io/badge/Browser-Edge-00aaff?style=flat&logo=microsoft-edge&logoColor=white"/>
 </p>
 
----
-
 ## 🌐 Website  
-🔗 **https://sc.is-a.dev**
-
----
-
-## 🚀 Projects  
-🔗 **https://sc.is-a.dev/projects**
-
----
+- **https://sc.is-a.dev** | Online Profile (SC)
+- **https://swar.is-a.dev** | Main Portfolio (Swar)
 
 ## 👨‍💻 About Me
-
-- 🔭 Working on: **life** (and sometimes code)  
-- 🌱 Learning: **C++**  
-- 👯 Collaboration: **[NNDY](https://github.com/SC136/NNDY)**  
-- 🤝 Need help with: **[WeTall (Project Iron Flake)](https://github.com/SC136/WeTall)**  
 - 💬 Ask me about: **Anime, Tech, Gaming**  
 - 📫 Reach me: **[Discord — sc136](https://discord.com/users/594504468931018752)**  
 - 😄 Pronouns: **he/him**  
 - 🦄 Fun fact: *Scotland's national animal is the Unicorn.*
 
----
-
 ## 🎧 Spotify Recently Played  
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=vxsgbx1d31s54nju55e60oz7n&unique=true">
 
----
-
 ## 🟦 Discord Presence  
 [![Discord Presence](https://lanyard.cnrad.dev/api/594504468931018752)](https://discord.com/users/594504468931018752)
-
----
 
 ## 🤖 My Discord Bots *(Archived)*
 
 - 🎶 **Simple Music Bot** — Verified, **600+ servers**  
 - 🧰 **SC Bot** — too many features, all worked somehow  
 - ⚙️ **Scord** — my most polished bot, discontinued 😔  
-
----
 
 ## 📊 GitHub Stats
 
@@ -69,14 +50,10 @@
   </a>
 </p>
 
----
-
 ## 🧰 Tech Stack  
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=cpp,py,js,html,css,arduino,linux,git,github,vscode,cloudflare&theme=dark" />
 </p>
-
----
 
 ## 💬 My Discord Server
 Anime, Programming, Memes, Gaming
