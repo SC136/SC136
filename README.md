@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Konnichiwa, I'm Swar: Developer · Hobbyist · Anime Enjoyer" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
+    <img src="assets/header-dark.svg" width="100%" alt="Konnichiwa, I'm Swar: Developer · Hobbyist · Anime Enjoyer" />
+  </picture>
 </p>
 
 <p align="center">
@@ -30,6 +34,32 @@
 - 💬 Ask me about **anime, tech or gaming**
 - 😄 Pronouns: **he/him**
 - 🦄 Fun fact: *Scotland's national animal is the unicorn.*
+
+## 🚀 Projects
+
+<p>
+  <a href="https://github.com/SC136/beam-share">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/projects/beam-share-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="assets/projects/beam-share-light.svg" />
+      <img src="assets/projects/beam-share-dark.svg" width="49%" alt="beam-share: terminal UI for peer-to-peer file sharing on your local network" />
+    </picture>
+  </a>
+  <a href="https://www.quotation.social">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/projects/quotation-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="assets/projects/quotation-light.svg" />
+      <img src="assets/projects/quotation-dark.svg" width="49%" alt="Quotation: a minimalist social network for sharing and discovering meaningful quotes" />
+    </picture>
+  </a>
+  <a href="https://music.hayai.tech">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/projects/hayaimusic-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="assets/projects/hayaimusic-light.svg" />
+      <img src="assets/projects/hayaimusic-dark.svg" width="49%" alt="HayaiMusic: music infrastructure for the AI era" />
+    </picture>
+  </a>
+</p>
 
 ## 🧰 Tech stack
 
@@ -78,4 +108,12 @@ Anime, programming, memes, gaming.
   <a href="https://discord.gg/UVWjuAh">
     <img alt="Join the Annoyance & Ignorance Discord server" src="https://invidget.switchblade.xyz/UVWjuAh" />
   </a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg" />
+    <img src="assets/footer-dark.svg" width="100%" alt="またね, mata ne: thanks for stopping by" />
+  </picture>
 </p>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="170" viewBox="0 0 480 170" role="img" aria-labelledby="title">
+  <title id="title">HayaiMusic: Music infrastructure for the AI era. Web app plus an Android client.</title>
+  <style>
+    .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+    .mono { font-family: 'Cascadia Code', Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace; }
+    .name { font-size: 25px; font-weight: 800; fill: #111318; }
+    .desc { font-size: 15.5px; fill: #3b3f48; }
+    .tag  { font-size: 13px; fill: #6b6f78; }
+    .foot { font-size: 13px; fill: #c1121f; }
+  </style>
+  <rect x=".5" y=".5" width="479" height="169" rx="14" fill="#fbf8f3" stroke="#e2dacd"/>
+  <rect x="0" y="26" width="4" height="32" rx="2" fill="#d90429"/>
+  <circle cx="444" cy="38" r="11" fill="#d90429"/>
+  <text class="sans name" x="32" y="52">HayaiMusic</text>
+  <text class="sans desc" x="32" y="84">Music infrastructure for the AI era.</text>
+  <text class="sans desc" x="32" y="106">Web app plus an Android client.</text>
+  <circle cx="37" cy="138" r="5" fill="#3178c6"/><text class="sans tag" x="48" y="143">TypeScript</text><circle cx="149" cy="138" r="5" fill="#a97bff"/><text class="sans tag" x="160" y="143">Kotlin</text>
+  <text class="mono foot" x="448" y="143" text-anchor="end">music.hayai.tech ↗</text>
+</svg>

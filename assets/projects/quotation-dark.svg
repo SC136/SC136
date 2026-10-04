@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="170" viewBox="0 0 480 170" role="img" aria-labelledby="title">
+  <title id="title">Quotation: A minimalist social network for sharing and discovering meaningful quotes.</title>
+  <style>
+    .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+    .mono { font-family: 'Cascadia Code', Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace; }
+    .name { font-size: 25px; font-weight: 800; fill: #f5f5f7; }
+    .desc { font-size: 15.5px; fill: #b8bcc6; }
+    .tag  { font-size: 13px; fill: #6e7681; }
+    .foot { font-size: 13px; fill: #ff3b4e; }
+  </style>
+  <rect x=".5" y=".5" width="479" height="169" rx="14" fill="#0d0f15" stroke="#23262f"/>
+  <rect x="0" y="26" width="4" height="32" rx="2" fill="#d90429"/>
+  <circle cx="444" cy="38" r="11" fill="#d90429"/>
+  <text class="sans name" x="32" y="52">Quotation</text>
+  <text class="sans desc" x="32" y="84">A minimalist social network for sharing</text>
+  <text class="sans desc" x="32" y="106">and discovering meaningful quotes.</text>
+  <circle cx="37" cy="138" r="5" fill="#3178c6"/><text class="sans tag" x="48" y="143">TypeScript</text>
+  <text class="mono foot" x="448" y="143" text-anchor="end">quotation.social ↗</text>
+</svg>
