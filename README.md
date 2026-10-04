@@ -1,65 +1,81 @@
-# 👋 Konnichiwa, I am
-<img width="549" height="240" alt="swar" src="https://github.com/user-attachments/assets/7181c4e0-e7f4-47c2-be30-69b7ea9cfe4a" />
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Konnichiwa, I'm Swar: Developer · Hobbyist · Anime Enjoyer" />
+</p>
 
+<p align="center">
+  <a href="https://sc.is-a.dev">
+    <img alt="Profile: sc.is-a.dev" src="https://img.shields.io/badge/Profile-sc.is--a.dev-d90429?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="https://swar.is-a.dev">
+    <img alt="Portfolio: swar.is-a.dev" src="https://img.shields.io/badge/Portfolio-swar.is--a.dev-1f2328?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/594504468931018752">
+    <img alt="Discord: sc136" src="https://img.shields.io/badge/Discord-sc136-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
 
-<p>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SC136" />
+<p align="center">
+  <img alt="Profile views" src="https://visitor-badge.laobi.icu/badge?page_id=SC136" />
   <a href="https://discord.gg/UVWjuAh">
-    <img src="https://img.shields.io/discord/594513706055106560?color=7289DA&label=Discord&logo=discord&logoColor=white" />
+    <img alt="Discord server members online" src="https://img.shields.io/discord/594513706055106560?color=7289DA&label=Discord&logo=discord&logoColor=white" />
   </a>
   <a href="https://github.com/SC136?tab=followers">
-    <img src="https://img.shields.io/github/followers/SC136?style=social" />
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/SC136?style=social" />
   </a>
 </p>
 
+## 👨‍💻 About me
+
+- 🌸 Into **anime, gaming, tech, coding and music**
+- 💬 Ask me about **anime, tech or gaming**
+- 😄 Pronouns: **he/him**
+- 🦄 Fun fact: *Scotland's national animal is the unicorn.*
+
+## 🧰 Tech stack
+
 <p>
-  <img src="https://img.shields.io/badge/OS-Windows_11-00aaff?style=flat&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Editor-VS_Code-00aaff?style=flat&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laptop-Asus-00aaff?style=flat&logo=asus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Phone-Samsung-00aaff?style=flat&logo=samsung&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Browser-Edge-00aaff?style=flat&logo=microsoft-edge&logoColor=white"/>
+  <img alt="C++, Python, JavaScript, HTML, CSS, Arduino, Linux, Git, GitHub, VS Code, Cloudflare" src="https://skillicons.dev/icons?i=cpp,py,js,html,css,arduino,linux,git,github,vscode,cloudflare&theme=dark" />
 </p>
 
-## 🌐 Website  
-- **https://sc.is-a.dev** | Online Profile (SC)
-- **https://swar.is-a.dev** | Main Portfolio (Swar)
+<p>
+  <img alt="OS: Windows 11" src="https://img.shields.io/badge/OS-Windows_11-00aaff?style=flat&logo=windows&logoColor=white"/>
+  <img alt="Editor: VS Code" src="https://img.shields.io/badge/Editor-VS_Code-00aaff?style=flat&logo=visual-studio-code&logoColor=white"/>
+  <img alt="Laptop: Asus" src="https://img.shields.io/badge/Laptop-Asus-00aaff?style=flat&logo=asus&logoColor=white"/>
+  <img alt="Phone: Samsung" src="https://img.shields.io/badge/Phone-Samsung-00aaff?style=flat&logo=samsung&logoColor=white"/>
+  <img alt="Browser: Edge" src="https://img.shields.io/badge/Browser-Edge-00aaff?style=flat&logo=microsoft-edge&logoColor=white"/>
+</p>
 
-## 👨‍💻 About Me
-- 💬 Ask me about: **Anime, Tech, Gaming**  
-- 📫 Reach me: **[Discord — sc136](https://discord.com/users/594504468931018752)**  
-- 😄 Pronouns: **he/him**  
-- 🦄 Fun fact: *Scotland's national animal is the Unicorn.*
+## 🎧 Lately
 
-## 🎧 Spotify Recently Played  
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=vxsgbx1d31s54nju55e60oz7n&unique=true">
+<p>
+  <img alt="Spotify recently played" src="https://spotify-recently-played-readme.vercel.app/api?user=vxsgbx1d31s54nju55e60oz7n&unique=true&count=3" />
+  <a href="https://discord.com/users/594504468931018752">
+    <img alt="Discord presence" src="https://lanyard.cnrad.dev/api/594504468931018752" />
+  </a>
+</p>
 
-## 🟦 Discord Presence  
-[![Discord Presence](https://lanyard.cnrad.dev/api/594504468931018752)](https://discord.com/users/594504468931018752)
-
-## 🤖 My Discord Bots *(Archived)*
-
-- 🎶 **Simple Music Bot** — Verified, **600+ servers**  
-- 🧰 **SC Bot** — too many features, all worked somehow  
-- ⚙️ **Scord** — my most polished bot, discontinued 😔  
-
-## 📊 GitHub Stats
+## 📊 GitHub stats
 
 <p>
   <a href="https://github.com/SC136">
-    <img src="https://github-stats-alpha.vercel.app/api?username=SC136&cc=000&tc=fff&ic=fff&bc=000" height="150"/>
+    <img alt="SC136's GitHub stats" src="https://github-stats-alpha.vercel.app/api?username=SC136&cc=000&tc=fff&ic=fff&bc=000" height="150"/>
   </a>
 </p>
 
-## 🧰 Tech Stack  
+## 🤖 Discord bots *(archived)*
+
+| Bot | |
+| --- | --- |
+| 🎶 **Simple Music Bot** | Verified, **600+ servers** |
+| 🧰 **SC Bot** | Too many features, all worked somehow |
+| ⚙️ **Scord** | My most polished bot, discontinued 😔 |
+
+## 💬 Come hang out
+
+Anime, programming, memes, gaming.
+
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,py,js,html,css,arduino,linux,git,github,vscode,cloudflare&theme=dark" />
-</p>
-
-## 💬 My Discord Server
-Anime, Programming, Memes, Gaming
-
-<p align="left">
-  <a href="https://discord.gg/Yyb3Yjc">
-    <img src="https://invidget.switchblade.xyz/UVWjuAh" />
+  <a href="https://discord.gg/UVWjuAh">
+    <img alt="Join the Annoyance & Ignorance Discord server" src="https://invidget.switchblade.xyz/UVWjuAh" />
   </a>
 </p>
