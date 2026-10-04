@@ -59,6 +59,13 @@
       <img src="assets/projects/hayaimusic-dark.svg" width="49%" alt="HayaiMusic: music infrastructure for the AI era" />
     </picture>
   </a>
+  <a href="https://github.com/SC136/Simple-Music-Bot">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/projects/simple-music-bot-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="assets/projects/simple-music-bot-light.svg" />
+      <img src="assets/projects/simple-music-bot-dark.svg" width="49%" alt="Simple Music Bot: my verified Discord music bot, crossed 600+ servers and 3 lakh+ users" />
+    </picture>
+  </a>
 </p>
 
 ## 🧰 Tech stack
@@ -91,14 +98,6 @@
     <img alt="SC136's GitHub stats" src="https://github-stats-alpha.vercel.app/api?username=SC136&cc=000&tc=fff&ic=fff&bc=000" height="150"/>
   </a>
 </p>
-
-## 🤖 Discord bots *(archived)*
-
-| Bot | |
-| --- | --- |
-| 🎶 **Simple Music Bot** | Verified, **600+ servers** |
-| 🧰 **SC Bot** | Too many features, all worked somehow |
-| ⚙️ **Scord** | My most polished bot, discontinued 😔 |
 
 ## 💬 Come hang out
 
