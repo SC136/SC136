@@ -114,6 +114,6 @@ Anime, programming, memes, gaming.
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg" />
-    <img src="assets/footer-dark.svg" width="100%" alt="またね, mata ne: thanks for stopping by" />
+    <img src="assets/footer-dark.svg" width="100%" alt="Thanks for stopping by" />
   </picture>
 </p>

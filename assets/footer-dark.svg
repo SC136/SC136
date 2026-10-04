@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="120" viewBox="0 0 1000 120" role="img" aria-labelledby="title">
-  <title id="title">Mata ne, thanks for stopping by</title>
+  <title id="title">Thanks for stopping by</title>
   <style>
     .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Hiragino Sans', 'Yu Gothic UI', 'Noto Sans JP', Helvetica, Arial, sans-serif; }
     .mono { font-family: 'Cascadia Code', Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace; }
     .bye  { font-size: 26px; font-weight: 700; fill: #f5f5f7; }
-    .note { font-size: 14px; fill: #6e7681; letter-spacing: 1px; }
+    .note { font-size: 18px; fill: #f5f5f7; letter-spacing: 2px; }
     .fall { animation: fall linear infinite both; }
     .spin { transform-box: fill-box; transform-origin: center; animation: spin 3s linear infinite; }
     @keyframes fall {
@@ -41,8 +41,7 @@
       <g transform="translate(900 0) scale(0.75)"><g class="fall" style="animation-duration:11s;animation-delay:-5s"><use href="#petal" xlink:href="#petal" class="spin"/></g></g>
       <g transform="translate(1040 0) scale(1)"><g class="fall" style="animation-duration:14s;animation-delay:-9s"><use href="#petal" xlink:href="#petal" class="spin"/></g></g>
     </g>
-    <circle cx="500" cy="24" r="7" fill="#ff3b4e"/>
-    <text class="sans bye" x="500" y="64" text-anchor="middle">またね · mata ne</text>
-    <text class="mono note" x="500" y="86" text-anchor="middle">thanks for stopping by</text>
+    <circle cx="500" cy="38" r="7" fill="#ff3b4e"/>
+    <text class="mono note" x="500" y="74" text-anchor="middle">thanks for stopping by</text>
   </g>
 </svg>
