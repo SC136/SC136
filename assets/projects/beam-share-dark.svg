@@ -1,65 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480" height="200" viewBox="0 0 480 200" role="img" aria-labelledby="title">
-  <title id="title">beam-share: Terminal UI for peer-to-peer file sharing on your local network.</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="150" viewBox="0 0 480 150" role="img" aria-labelledby="title">
+  <title id="title">beam-share: p2p file sharing over LAN, right in your terminal</title>
   <style>
-    .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
-    .mono { font-family: 'Cascadia Code', Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace; }
-    .desc { font-size: 15.5px; fill: #b8bcc6; }
-    .tag  { font-size: 13px; fill: #8b919c; }
-    .foot { font-size: 13px; fill: #ff3b4e; font-weight: 600; }
-    .star { fill: #fff; animation: twinkle 4s ease-in-out infinite alternate; }
-    .halo { animation: pulse 6s ease-in-out infinite alternate; }
-    .link { animation: flow .9s linear infinite; }
-    .ring { transform-box: fill-box; transform-origin: center; animation: ring 2s ease-out infinite; }
-    .float { animation: float 5s ease-in-out infinite alternate; }
-    .disc { transform-box: fill-box; transform-origin: center; animation: turn 4s linear infinite; }
-    @keyframes turn  { to { transform: rotate(360deg); } }
-    .bar  { transform-box: fill-box; transform-origin: bottom; animation: eq ease-in-out infinite alternate; }
-    @keyframes flow  { to { stroke-dashoffset: -22; } }
-    @keyframes ring  { from { transform: scale(1); opacity: .9; } to { transform: scale(2.6); opacity: 0; } }
-    @keyframes float { from { transform: translateY(-4px); } to { transform: translateY(4px); } }
-    @keyframes eq    { from { transform: scaleY(.3); } to { transform: scaleY(1); } }
-    .fall { animation: fall linear infinite both; }
-    .spin { transform-box: fill-box; transform-origin: center; animation: spin 3s linear infinite; }
-    @keyframes twinkle { from { opacity: .15; } to { opacity: .9; } }
-    @keyframes pulse   { from { opacity: .15; } to { opacity: .35; } }
-    @keyframes fall {
-      0%   { transform: translate(0, -15px); opacity: 0; }
-      10%  { opacity: .9; }
-      50%  { transform: translate(-60px, 100px); }
-      90%  { opacity: .9; }
-      100% { transform: translate(-130px, 220px); opacity: 0; }
-    }
-    @keyframes spin {
-      0%   { transform: rotate(0deg) scaleX(1); }
-      50%  { transform: rotate(180deg) scaleX(.35); }
-      100% { transform: rotate(360deg) scaleX(1); }
-    }
-    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .fall { display: none; } }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, 'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace; }
+    .name { font-size: 20px; font-weight: 600; fill: #e6edf3; }
+    .desc { font-size: 15px; fill: #9198a1; }
+    .tag  { font-size: 13px; fill: #9198a1; }
+    .link { font-size: 12.5px; fill: #ff5c6c; }
   </style>
-  <defs>
-    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#07080c"/>
-      <stop offset="1" stop-color="#141720"/>
-    </linearGradient>
-    <radialGradient id="moon" cx=".4" cy=".36" r=".72">
-      <stop offset="0" stop-color="#ff4b5c"/>
-      <stop offset=".6" stop-color="#d90429"/>
-      <stop offset="1" stop-color="#8d0801"/>
-    </radialGradient>
-    <filter id="blur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="14"/></filter>
-    <clipPath id="frame"><rect width="480" height="200" rx="16"/></clipPath>
-    <path id="petal" d="M0 0C3-5 10-6 14-1C10 4 3 5 0 0Z"/>
-  </defs>
-  <g clip-path="url(#frame)">
-    <rect width="480" height="200" fill="url(#sky)"/>
-    <circle class="star" cx="250" cy="22" r="1.2" style="animation-delay:-0.0s"/><circle class="star" cx="300" cy="52" r="1" style="animation-delay:-0.7s"/><circle class="star" cx="350" cy="18" r="1.4" style="animation-delay:-1.4s"/><circle class="star" cx="215" cy="60" r="1" style="animation-delay:-2.1s"/><circle class="star" cx="468" cy="110" r="1.1" style="animation-delay:-2.8s"/><circle class="star" cx="330" cy="90" r="1" style="animation-delay:-3.5s"/>
-    <circle class="halo" cx="406" cy="62" r="42" fill="#d90429" opacity=".35" filter="url(#blur)"/><path d="M364 84Q404 28 448 44" fill="none" stroke="#f5f5f7" stroke-opacity=".15" stroke-width="1.5"/><path class="link" d="M364 84Q404 28 448 44" fill="none" stroke="#ff3b4e" stroke-width="3" stroke-linecap="round" stroke-dasharray="1 10"/><circle class="ring" cx="364" cy="84" r="9" fill="none" stroke="#ff3b4e" stroke-width="1.5"/><circle class="ring" cx="448" cy="44" r="12" fill="none" stroke="#ff3b4e" stroke-width="1.5" style="animation-delay:-1s"/><circle cx="364" cy="84" r="9" fill="url(#moon)"/><circle cx="448" cy="44" r="12" fill="url(#moon)"/>
-    <path d="M250 200C330 184 410 180 480 186V200Z" fill="#030304"/>
-    <g fill="#e5e5e5"><g transform="translate(360 0) scale(0.8)"><g class="fall" style="animation-duration:9s;animation-delay:-6.5s"><use href="#petal" xlink:href="#petal" class="spin"/></g></g><g transform="translate(430 0) scale(0.9)"><g class="fall" style="animation-duration:11s;animation-delay:-3.5s"><use href="#petal" xlink:href="#petal" class="spin" fill="#ff3b4e"/></g></g><g transform="translate(300 0) scale(0.6)"><g class="fall" style="animation-duration:12s;animation-delay:-8.0s"><use href="#petal" xlink:href="#petal" class="spin"/></g></g></g>
-    <path fill="#f5f5f7" d="M51.9 56.9Q51.9 59.5 51 61.7Q50 63.8 48.2 65.1Q46.4 66.3 44.2 66.3Q41.6 66.3 39.7 65.2Q37.8 64.1 36.9 61.8L35.9 66H29.4Q29.6 59.6 29.6 52.8Q29.6 45.9 29.4 39.5H37L36.9 43.7Q36.8 48.1 36.8 51.6Q37.7 49.3 39.6 48.2Q41.5 47.1 44.1 47.1Q46.4 47.1 48.2 48.5Q50 49.8 51 52.1Q51.9 54.4 51.9 56.9ZM44.2 56.7Q44.2 55.2 43.1 54.2Q42.1 53.2 40.6 53.2Q39.8 53.2 38.9 53.6Q38.1 53.9 37.5 54.7Q36.9 55.5 36.9 56.7Q36.9 58.8 37.8 59.7Q38.8 60.6 40.6 60.6Q42.3 60.6 43.2 59.5Q44.2 58.5 44.2 56.7ZM72.6 57.5H61.6Q61.8 59 62.9 59.9Q64 60.9 65.9 60.9Q67.4 60.9 68.6 60.3Q69.9 59.7 70.6 58.7Q72.9 59.8 76.7 61.1Q75.6 63.5 72.9 64.9Q70.1 66.3 65.6 66.3Q59.9 66.3 57.1 63.7Q54.3 61 54.3 56.6Q54.3 52.4 57.1 49.7Q59.8 47.1 65.6 47.1Q69.1 47.1 71.7 48.3Q74.2 49.4 75.6 51.5Q76.9 53.5 76.9 56.2Q76.9 57.1 76.9 57.5ZM61.8 54.6H69.8Q69.4 53.6 68.5 52.9Q67.6 52.2 66.1 52.2Q64.4 52.2 63.3 52.9Q62.2 53.5 61.8 54.6ZM101.1 60.4Q101.1 61.5 101.4 62Q101.6 62.5 102.5 62.7L102.3 65.9Q101.2 66 100.4 66.1Q99.6 66.2 98.3 66.2Q95.4 66.2 94.4 64.9Q93.5 63.6 93.5 61.5V60.7Q92.5 63.5 90.6 64.8Q88.7 66.2 85.8 66.2Q82.4 66.2 80.7 64.8Q79 63.5 79 60.8Q79 58.6 80.4 57.3Q81.9 56 85 55.6Q82.4 53.7 79.8 52.4Q81.8 49.8 84.4 48.4Q87.1 47.1 90.8 47.1Q96 47.1 98.6 49.4Q101.1 51.6 101.1 56.3ZM86.1 55.4Q88.1 55.2 91.2 55.2Q92.4 55.2 92.9 54.8Q93.5 54.5 93.5 54.1Q93.5 53.7 92.9 53.4Q92.4 53.1 91.5 53.1Q89.8 53.1 88.5 53.7Q87.1 54.2 86.1 55.4ZM93.5 58V57.1Q92.7 57.5 91.7 57.7Q90.7 57.9 89.3 58.1L88.1 58.4Q86.2 58.7 86.2 59.6Q86.2 60.6 87.9 60.6Q89.8 60.6 91.4 59.9Q92.9 59.2 93.5 58ZM130.8 66Q131.1 61.5 131.1 56.8Q131.1 55.3 130.4 54.4Q129.6 53.5 128.3 53.5Q127.2 53.5 126.3 54.5Q125.5 55.6 125.5 57.5V57.5Q125.5 63.5 125.7 66H118Q118.2 61 118.2 56.8Q118.2 55.3 117.5 54.4Q116.8 53.5 115.7 53.5Q114.5 53.5 113.7 54.5Q112.9 55.5 112.7 57.3Q112.7 59.8 112.7 60.9Q112.7 63.2 112.8 66H104.7Q104.9 61.1 104.9 56.8Q104.9 52.4 104.7 47.4Q106.9 47.5 108.1 47.5Q109.4 47.5 111.5 47.4L112.6 52.5Q113.3 49.7 115 48.4Q116.7 47.1 119 47.1Q121.6 47.1 123.3 48.6Q125 50 125.4 52.4Q126.2 50 128 48.5Q129.8 47.1 132.2 47.1Q135.2 47.1 137 49.2Q138.7 51.2 138.7 54.8V60.4Q138.7 64.3 138.8 66ZM156.1 57.7H141.5V51.1H156.1ZM158.2 63.1 161.7 58.2Q163.3 59.4 165.5 60Q167.7 60.6 169.3 60.6Q170.8 60.6 171.7 60.2Q172.5 59.8 172.5 59.1Q172.5 58.6 172.1 58.2Q171.7 57.9 171 57.9Q170.5 57.9 170 58Q169.4 58 169.1 58Q167.3 58.2 165.4 58.2Q162.4 58.2 160.5 57.1Q158.6 56 158.6 53.4Q158.6 50.4 161.4 48.7Q164.3 47.1 169.7 47.1Q172.4 47.1 175.2 47.9Q177.9 48.6 180 50.2L176.1 54.1Q174.2 53.1 172.5 52.7Q170.8 52.2 169.1 52.2Q167.9 52.2 167.1 52.7Q166.2 53.2 166.2 53.8Q166.2 54.3 166.6 54.5Q166.9 54.8 167.5 54.8Q168.1 54.8 169.1 54.7Q171.6 54.5 172.8 54.5Q176.3 54.5 178.3 55.7Q180.2 56.9 180.2 59.4Q180.2 63 177.4 64.7Q174.5 66.3 169.5 66.3Q166.6 66.3 163.7 65.5Q160.7 64.7 158.2 63.1ZM195.9 66Q196.1 61 196.1 56.8Q196.1 55.3 195.3 54.4Q194.6 53.5 193.5 53.5Q192.3 53.5 191.5 54.7Q190.6 55.8 190.6 57.8L190.6 57.8Q190.6 63.3 190.7 66H182.6Q182.9 61.1 182.9 52.7Q182.9 44.4 182.6 39.5H190.7L190.7 50L190.7 51.8Q191.5 49.4 193.1 48.2Q194.7 47.1 196.8 47.1Q198.8 47.1 200.3 48Q201.8 48.9 202.6 50.4Q203.3 52 203.3 53.9V58.8Q203.3 63.3 203.5 66ZM228 60.4Q228 61.5 228.3 62Q228.6 62.5 229.4 62.7L229.2 65.9Q228.2 66 227.4 66.1Q226.6 66.2 225.2 66.2Q222.3 66.2 221.4 64.9Q220.4 63.6 220.4 61.5V60.7Q219.4 63.5 217.5 64.8Q215.6 66.2 212.7 66.2Q209.3 66.2 207.6 64.8Q205.9 63.5 205.9 60.8Q205.9 58.6 207.4 57.3Q208.8 56 211.9 55.6Q209.3 53.7 206.7 52.4Q208.7 49.8 211.4 48.4Q214 47.1 217.7 47.1Q223 47.1 225.5 49.4Q228 51.6 228 56.3ZM213 55.4Q215 55.2 218.1 55.2Q219.4 55.2 219.9 54.8Q220.4 54.5 220.4 54.1Q220.4 53.7 219.9 53.4Q219.4 53.1 218.4 53.1Q216.7 53.1 215.4 53.7Q214 54.2 213 55.4ZM220.4 58V57.1Q219.6 57.5 218.6 57.7Q217.6 57.9 216.2 58.1L215 58.4Q213.1 58.7 213.1 59.6Q213.1 60.6 214.9 60.6Q216.8 60.6 218.3 59.9Q219.8 59.2 220.4 58ZM239.3 52.5Q240.7 47.3 246.4 47.3Q247.4 47.3 248.3 47.5L247.2 55.1Q244.8 54.2 243.2 54.2Q241.3 54.2 240.4 55.3Q239.4 56.5 239.4 58.4V58.4L239.4 60.6Q239.4 63 239.5 66H231.4Q231.7 61.1 231.7 56.8Q231.7 52.4 231.4 47.4Q233.7 47.5 234.9 47.5Q236.1 47.5 238.3 47.4ZM268 57.5H256.9Q257.2 59 258.3 59.9Q259.3 60.9 261.3 60.9Q262.7 60.9 264 60.3Q265.3 59.7 266 58.7Q268.3 59.8 272.1 61.1Q271 63.5 268.2 64.9Q265.5 66.3 261 66.3Q255.2 66.3 252.5 63.7Q249.7 61 249.7 56.6Q249.7 52.4 252.4 49.7Q255.2 47.1 261 47.1Q264.5 47.1 267 48.3Q269.6 49.4 270.9 51.5Q272.3 53.5 272.3 56.2Q272.3 57.1 272.2 57.5ZM257.2 54.6H265.2Q264.8 53.6 263.9 52.9Q262.9 52.2 261.5 52.2Q259.8 52.2 258.7 52.9Q257.6 53.5 257.2 54.6Z"/>
-    <text class="sans desc" x="28" y="104">Terminal UI for peer-to-peer file sharing</text>
-    <text class="sans desc" x="28" y="126">on your local network.</text>
-    <circle cx="33" cy="166" r="5" fill="#f1e05a"/><text class="sans tag" x="44" y="171">JavaScript</text>
-  </g>
-  <text class="mono foot" x="452" y="171" text-anchor="end">$ npx github:SC136/beam-share</text>
+  <rect x=".5" y=".5" width="479" height="149" rx="6" fill="#0d1117" stroke="#30363d"/>
+  <text class="sans name" x="24" y="42">beam-share</text>
+  <text class="sans desc" x="24" y="72">p2p file sharing over LAN,</text>
+  <text class="sans desc" x="24" y="93">right in your terminal</text>
+  <circle cx="29" cy="122" r="5" fill="#f1e05a"/><text class="sans tag" x="39" y="126.5">JavaScript</text>
+  <text class="mono link" x="456" y="126.5" text-anchor="end">$ npx github:SC136/beam-share</text>
 </svg>

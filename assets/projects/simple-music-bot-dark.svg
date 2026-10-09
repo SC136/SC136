@@ -1,65 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480" height="200" viewBox="0 0 480 200" role="img" aria-labelledby="title">
-  <title id="title">Simple Music Bot: My verified Discord music bot. Crossed 600+ servers and 3 lakh+ users.</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="150" viewBox="0 0 480 150" role="img" aria-labelledby="title">
+  <title id="title">Simple Music Bot: verified discord music bot, 600+ servers, 3 lakh+ users</title>
   <style>
-    .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
-    .mono { font-family: 'Cascadia Code', Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace; }
-    .desc { font-size: 15.5px; fill: #b8bcc6; }
-    .tag  { font-size: 13px; fill: #8b919c; }
-    .foot { font-size: 13px; fill: #ff3b4e; font-weight: 600; }
-    .star { fill: #fff; animation: twinkle 4s ease-in-out infinite alternate; }
-    .halo { animation: pulse 6s ease-in-out infinite alternate; }
-    .link { animation: flow .9s linear infinite; }
-    .ring { transform-box: fill-box; transform-origin: center; animation: ring 2s ease-out infinite; }
-    .float { animation: float 5s ease-in-out infinite alternate; }
-    .disc { transform-box: fill-box; transform-origin: center; animation: turn 4s linear infinite; }
-    @keyframes turn  { to { transform: rotate(360deg); } }
-    .bar  { transform-box: fill-box; transform-origin: bottom; animation: eq ease-in-out infinite alternate; }
-    @keyframes flow  { to { stroke-dashoffset: -22; } }
-    @keyframes ring  { from { transform: scale(1); opacity: .9; } to { transform: scale(2.6); opacity: 0; } }
-    @keyframes float { from { transform: translateY(-4px); } to { transform: translateY(4px); } }
-    @keyframes eq    { from { transform: scaleY(.3); } to { transform: scaleY(1); } }
-    .fall { animation: fall linear infinite both; }
-    .spin { transform-box: fill-box; transform-origin: center; animation: spin 3s linear infinite; }
-    @keyframes twinkle { from { opacity: .15; } to { opacity: .9; } }
-    @keyframes pulse   { from { opacity: .15; } to { opacity: .35; } }
-    @keyframes fall {
-      0%   { transform: translate(0, -15px); opacity: 0; }
-      10%  { opacity: .9; }
-      50%  { transform: translate(-60px, 100px); }
-      90%  { opacity: .9; }
-      100% { transform: translate(-130px, 220px); opacity: 0; }
-    }
-    @keyframes spin {
-      0%   { transform: rotate(0deg) scaleX(1); }
-      50%  { transform: rotate(180deg) scaleX(.35); }
-      100% { transform: rotate(360deg) scaleX(1); }
-    }
-    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .fall { display: none; } }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, 'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace; }
+    .name { font-size: 20px; font-weight: 600; fill: #e6edf3; }
+    .desc { font-size: 15px; fill: #9198a1; }
+    .tag  { font-size: 13px; fill: #9198a1; }
+    .link { font-size: 12.5px; fill: #ff5c6c; }
   </style>
-  <defs>
-    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#07080c"/>
-      <stop offset="1" stop-color="#141720"/>
-    </linearGradient>
-    <radialGradient id="moon" cx=".4" cy=".36" r=".72">
-      <stop offset="0" stop-color="#ff4b5c"/>
-      <stop offset=".6" stop-color="#d90429"/>
-      <stop offset="1" stop-color="#8d0801"/>
-    </radialGradient>
-    <filter id="blur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="14"/></filter>
-    <clipPath id="frame"><rect width="480" height="200" rx="16"/></clipPath>
-    <path id="petal" d="M0 0C3-5 10-6 14-1C10 4 3 5 0 0Z"/>
-  </defs>
-  <g clip-path="url(#frame)">
-    <rect width="480" height="200" fill="url(#sky)"/>
-    <circle class="star" cx="250" cy="22" r="1.2" style="animation-delay:-0.0s"/><circle class="star" cx="300" cy="52" r="1" style="animation-delay:-0.7s"/><circle class="star" cx="350" cy="18" r="1.4" style="animation-delay:-1.4s"/><circle class="star" cx="215" cy="60" r="1" style="animation-delay:-2.1s"/><circle class="star" cx="468" cy="110" r="1.1" style="animation-delay:-2.8s"/><circle class="star" cx="330" cy="90" r="1" style="animation-delay:-3.5s"/>
-    <circle class="halo" cx="420" cy="56" r="42" fill="#d90429" opacity=".35" filter="url(#blur)"/><g class="disc"><circle cx="420" cy="56" r="40" fill="#0b0c10"/><circle cx="420" cy="56" r="34" fill="none" stroke="#2a2d36" stroke-width="1"/><circle cx="420" cy="56" r="29" fill="none" stroke="#2a2d36" stroke-width="1"/><circle cx="420" cy="56" r="24" fill="none" stroke="#2a2d36" stroke-width="1"/><circle cx="420" cy="56" r="19" fill="none" stroke="#2a2d36" stroke-width="1"/><path d="M420 20A36 36 0 0 1 453 40" fill="none" stroke="#ffffff" stroke-opacity=".25" stroke-width="3" stroke-linecap="round"/><circle cx="420" cy="56" r="13" fill="url(#moon)"/><circle cx="420" cy="56" r="2.5" fill="#0b0c10"/></g>
-    <path d="M250 200C330 184 410 180 480 186V200Z" fill="#030304"/>
-    <g fill="#e5e5e5"><g transform="translate(360 0) scale(0.8)"><g class="fall" style="animation-duration:9s;animation-delay:-4.5s"><use href="#petal" xlink:href="#petal" class="spin"/></g></g><g transform="translate(430 0) scale(0.9)"><g class="fall" style="animation-duration:11s;animation-delay:-7.5s"><use href="#petal" xlink:href="#petal" class="spin" fill="#ff3b4e"/></g></g><g transform="translate(300 0) scale(0.6)"><g class="fall" style="animation-duration:12s;animation-delay:-8.0s"><use href="#petal" xlink:href="#petal" class="spin"/></g></g></g>
-    <path fill="#f5f5f7" d="M32.2 55.5Q34.3 56.7 37.1 57.4Q40 58.1 42.4 58.1Q44.9 58.1 45.9 57.7Q46.9 57.2 46.9 56.7Q46.9 54.9 41.4 54.9Q35.2 54.9 32.5 53.6Q29.7 52.4 29.7 49.5Q29.7 45.5 33.1 43.5Q36.4 41.6 41.8 41.6Q44.9 41.6 48.2 42.4Q51.5 43.2 54.1 44.6Q53.3 46.6 52.3 49.4Q52.1 50 52 50.3Q50.5 49.1 47.4 48.3Q44.3 47.4 41.9 47.4Q39.1 47.4 38.1 47.8Q37.1 48.2 37.1 48.9Q37.1 49.6 38.5 50.1Q39.8 50.5 42.4 50.5Q48.8 50.5 51.6 52Q54.5 53.4 54.5 56.4Q54.5 60.6 51.5 62.5Q48.4 64.3 42.2 64.3Q38.9 64.3 35.4 63.6Q32 62.8 29.2 61.4Q30.2 59.9 30.9 58.6Q31.6 57.2 32.2 55.5ZM57.2 42.5Q57.2 41 58.1 40.1Q59 39.1 60.9 39.1Q62.7 39.1 63.7 40.1Q64.7 41 64.7 42.5Q64.7 44 63.7 44.9Q62.8 45.9 60.9 45.9Q59 45.9 58.1 44.9Q57.2 44 57.2 42.5ZM57.5 64Q57.7 59.2 57.7 56Q57.7 52.3 57.4 47.6H64.6Q64.4 52.1 64.4 56Q64.4 59.3 64.6 64ZM90.6 64Q90.8 60.1 90.8 55.9Q90.8 54.5 90.2 53.8Q89.5 53 88.4 53Q87.4 53 86.6 53.9Q85.9 54.8 85.9 56.5V56.5Q85.9 61.8 86 64H79.3Q79.5 59.6 79.5 55.9Q79.5 54.5 78.8 53.8Q78.2 53 77.2 53Q76.1 53 75.4 53.9Q74.7 54.8 74.6 56.3Q74.6 58.6 74.6 59.5Q74.6 61.6 74.7 64H67.5Q67.8 59.7 67.8 55.8Q67.8 52 67.5 47.6Q69.5 47.7 70.5 47.7Q71.6 47.7 73.6 47.6L74.5 52.1Q75.2 49.6 76.7 48.5Q78.2 47.3 80.1 47.3Q82.4 47.3 83.9 48.6Q85.4 49.9 85.8 52Q86.5 49.8 88.1 48.6Q89.7 47.3 91.8 47.3Q94.5 47.3 96 49.1Q97.5 51 97.5 54.1V59.1Q97.5 62.5 97.6 64ZM120.2 55.6Q120.2 57.9 119.3 59.9Q118.5 61.9 116.9 63.1Q115.3 64.3 113.3 64.3Q111 64.3 109.3 63.3Q107.6 62.4 106.8 60.3Q106.8 62 107 65.8Q107.1 69.5 107.1 71H100.3Q100.5 65.4 100.5 59.3Q100.5 53.2 100.3 47.6H106.1L106.9 51.4Q107.8 49.3 109.4 48.3Q111.1 47.3 113.4 47.3Q115.4 47.3 116.9 48.4Q118.5 49.5 119.3 51.4Q120.2 53.4 120.2 55.6ZM113.4 55.8Q113.4 54.3 112.5 53.3Q111.7 52.4 110.3 52.4Q108.6 52.4 107.8 53.2Q106.9 54 106.9 55.8Q106.9 56.9 107.5 57.6Q108 58.3 108.8 58.6Q109.5 58.9 110.2 58.9Q111.5 58.9 112.5 58Q113.4 57.2 113.4 55.8ZM129.3 57.5Q129.3 62 129.4 64H122.3L122.3 60.6Q122.4 55 122.4 52Q122.4 49.1 122.3 43.8L122.3 40.6H129.4Q129.3 44.9 129.3 47.6Q129.3 50.6 129.4 52Q129.3 53.8 129.3 57.5ZM147.7 56.5H137.9Q138.1 57.8 139.1 58.6Q140 59.5 141.8 59.5Q143 59.5 144.1 59Q145.2 58.5 145.9 57.6Q147.9 58.6 151.2 59.7Q150.3 61.8 147.9 63.1Q145.4 64.3 141.5 64.3Q136.4 64.3 133.9 61.9Q131.5 59.6 131.5 55.8Q131.5 52 133.9 49.7Q136.4 47.3 141.5 47.3Q144.5 47.3 146.8 48.3Q149 49.4 150.2 51.2Q151.4 53 151.4 55.3Q151.4 56.1 151.4 56.5ZM138.1 54H145.2Q144.8 53 144 52.4Q143.2 51.9 141.9 51.9Q140.4 51.9 139.4 52.4Q138.5 53 138.1 54ZM187.6 42.2 189.9 64H182.2L181.7 48.5L178.7 64H170.8L167.8 48.6L167.3 64H159.5L161.9 42.2H172.1L174.7 56.4L177 42.2ZM210.6 55.8Q210.6 60.2 210.8 64Q208.9 63.9 207.8 63.9Q206.7 63.9 204.7 64L203.9 59.6Q203.2 62 201.7 63.1Q200.2 64.3 198.3 64.3Q196.5 64.3 195.2 63.5Q193.8 62.7 193.2 61.4Q192.5 60 192.5 58.3V54Q192.5 50 192.3 47.6H199.1Q198.9 52 198.9 56.4Q198.9 57.7 199.6 58.5Q200.2 59.2 201.2 59.2Q202.1 59.2 202.8 58.4Q203.5 57.6 203.7 56.1V55.5Q203.7 53.1 203.7 52.2Q203.7 50.1 203.6 47.6H210.8Q210.6 51.4 210.6 55.8ZM212.9 61.5 216 57.2Q217.4 58.1 219.4 58.7Q221.3 59.3 222.7 59.3Q224.1 59.3 224.8 58.9Q225.5 58.5 225.5 57.9Q225.5 57.4 225.2 57.2Q224.8 56.9 224.2 56.9Q223.8 56.9 223.3 56.9Q222.8 57 222.5 57Q221 57.2 219.3 57.2Q216.6 57.2 215 56.2Q213.3 55.1 213.3 52.9Q213.3 50.2 215.8 48.8Q218.3 47.3 223.1 47.3Q225.5 47.3 227.9 48Q230.3 48.7 232.2 50L228.7 53.5Q227 52.6 225.5 52.2Q224 51.9 222.5 51.9Q221.5 51.9 220.7 52.3Q220 52.7 220 53.2Q220 53.6 220.3 53.9Q220.6 54.1 221.1 54.1Q221.6 54.1 222.5 54Q224.7 53.9 225.8 53.9Q228.9 53.9 230.6 54.9Q232.4 56 232.4 58.1Q232.4 61.4 229.8 62.8Q227.3 64.3 222.9 64.3Q220.4 64.3 217.8 63.6Q215.2 62.9 212.9 61.5ZM234.8 42.5Q234.8 41 235.7 40.1Q236.6 39.1 238.5 39.1Q240.3 39.1 241.2 40.1Q242.2 41 242.2 42.5Q242.2 44 241.3 44.9Q240.3 45.9 238.5 45.9Q236.6 45.9 235.7 44.9Q234.8 44 234.8 42.5ZM235 64Q235.2 59.2 235.2 56Q235.2 52.3 235 47.6H242.2Q241.9 52.1 241.9 56Q241.9 59.3 242.1 64ZM254.7 59.2Q255.7 59.2 256.4 58.8Q257.2 58.5 257.9 57.7Q260.4 58.7 263.9 59.4Q262.9 61.7 260.5 63Q258.2 64.3 254.4 64.3Q249.4 64.3 247 62Q244.6 59.6 244.6 55.8Q244.6 52 247 49.7Q249.4 47.3 254.4 47.3Q258.2 47.3 260.5 48.6Q262.9 49.9 263.9 52.2Q261.2 52.8 257.9 53.9Q257.2 53.2 256.4 52.8Q255.7 52.4 254.7 52.4Q252.9 52.4 252 53.4Q251 54.3 251 55.8Q251 57.3 252 58.3Q252.9 59.2 254.7 59.2ZM296.5 57.5Q296.5 59.6 295.6 61Q294.7 62.4 292.3 63.2Q289.9 64 285.6 64H272.1Q272.3 58.2 272.3 53.1Q272.3 48 272.1 42.2H279.2V42.2H285.5Q289.3 42.2 291.4 42.9Q293.6 43.5 294.4 44.7Q295.3 45.8 295.3 47.6Q295.3 49.5 294.1 50.9Q292.8 52.3 289.7 53.2Q296.5 53.2 296.5 57.5ZM279.2 47.7V50.5H284.9Q286.8 50.5 287.5 50.2Q288.2 49.8 288.2 49Q288.2 48.3 287.5 48Q286.7 47.7 284.9 47.7ZM284.9 58.5Q286.5 58.5 287.3 58.4Q288.1 58.2 288.5 57.9Q288.8 57.5 288.8 57Q288.8 56.2 288 55.8Q287.1 55.5 284.9 55.5H279.2V58.5ZM298.6 55.8Q298.6 52 301 49.7Q303.5 47.3 308.6 47.3Q312 47.3 314.4 48.4Q316.7 49.6 317.8 51.5Q318.9 53.4 318.9 55.8Q318.9 59.6 316.3 62Q313.8 64.3 308.6 64.3Q303.5 64.3 301 61.9Q298.6 59.6 298.6 55.8ZM312.6 55.8Q312.6 54.3 311.6 53.4Q310.7 52.4 308.7 52.4Q306.8 52.4 305.9 53.4Q305 54.3 305 55.8Q305 57.3 305.9 58.3Q306.8 59.2 308.7 59.2Q310.7 59.2 311.6 58.3Q312.6 57.3 312.6 55.8ZM334.6 53Q331.8 52.8 329.6 52.7L329.5 55.9Q329.5 57.5 330.2 58.4Q330.9 59.4 332.7 59.4Q333.4 59.4 334.1 59.2Q333.9 60.3 333.9 61.5Q333.9 62 334 63.9Q332.7 64.2 331.8 64.2Q330.9 64.3 329.4 64.3Q325.9 64.3 324.5 62.6Q323 60.9 323 57.9L323.1 52.8Q321.6 52.9 320.1 53V47.7Q321.7 47.7 322.8 46.7Q323.8 45.7 324 44.3H332.2Q330.7 46.4 328.8 47.7H334.6Z"/>
-    <text class="sans desc" x="28" y="104">My verified Discord music bot.</text>
-    <text class="sans desc" x="28" y="126">Crossed 600+ servers and 3 lakh+ users.</text>
-    <circle cx="33" cy="166" r="5" fill="#f1e05a"/><text class="sans tag" x="44" y="171">JavaScript</text>
-  </g>
-  <text class="mono foot" x="452" y="171" text-anchor="end">SC136/Simple-Music-Bot ↗</text>
+  <rect x=".5" y=".5" width="479" height="149" rx="6" fill="#0d1117" stroke="#30363d"/>
+  <text class="sans name" x="24" y="42">Simple Music Bot</text>
+  <text class="sans desc" x="24" y="72">verified discord music bot,</text>
+  <text class="sans desc" x="24" y="93">600+ servers, 3 lakh+ users</text>
+  <circle cx="29" cy="122" r="5" fill="#f1e05a"/><text class="sans tag" x="39" y="126.5">JavaScript</text>
+  <text class="mono link" x="456" y="126.5" text-anchor="end">SC136/Simple-Music-Bot ↗</text>
 </svg>
