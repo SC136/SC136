@@ -13,6 +13,9 @@
   <a href="https://swar.is-a.dev">
     <img alt="Portfolio: swar.is-a.dev" src="https://img.shields.io/badge/Portfolio-swar.is--a.dev-1f2328?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
+  <a href="https://sc.is-a.dev/hackathons/">
+    <img alt="Hackathon logbook: sc.is-a.dev/hackathons" src="https://img.shields.io/badge/Hackathons-logbook-f59e0b?style=for-the-badge&logo=devpost&logoColor=white"/>
+  </a>
   <a href="https://discord.com/users/594504468931018752">
     <img alt="Discord: sc136" src="https://img.shields.io/badge/Discord-sc136-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
@@ -71,7 +74,7 @@
 ## 🧰 Tech stack
 
 <p>
-  <img alt="C++, Python, JavaScript, HTML, CSS, Arduino, Linux, Git, GitHub, VS Code, Cloudflare" src="https://skillicons.dev/icons?i=cpp,py,js,html,css,arduino,linux,git,github,vscode,cloudflare&theme=dark" />
+  <img alt="TypeScript, JavaScript, React, Next.js, Node.js, Python, Rust, C++, HTML, CSS, Tailwind CSS, Arduino, Linux, Git, GitHub, VS Code, Cloudflare" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,py,rust,cpp,html,css,tailwind,arduino,linux,git,github,vscode,cloudflare&theme=dark" />
 </p>
 
 <p>
