@@ -38,11 +38,11 @@
 
 ## 🧰 Tech stack
 
-<p>
+<p align="center">
   <img alt="TypeScript, JavaScript, React, Next.js, Node.js, Python, Rust, C++, HTML, CSS, Tailwind CSS, Arduino, Linux, Git, GitHub, VS Code, Cloudflare" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,py,rust,cpp,html,css,tailwind,arduino,linux,git,github,vscode,cloudflare&theme=dark" />
 </p>
 
-<p>
+<p align="center">
   <img alt="OS: Windows 11" src="https://img.shields.io/badge/OS-Windows_11-00aaff?style=flat&logo=windows&logoColor=white"/>
   <img alt="Editor: VS Code" src="https://img.shields.io/badge/Editor-VS_Code-00aaff?style=flat&logo=visual-studio-code&logoColor=white"/>
   <img alt="Laptop: Asus" src="https://img.shields.io/badge/Laptop-Asus-00aaff?style=flat&logo=asus&logoColor=white"/>
@@ -61,7 +61,7 @@
 
 ## 📊 GitHub stats
 
-<p>
+<p align="center">
   <a href="https://github.com/SC136">
     <img alt="SC136's GitHub stats" src="https://github-stats-alpha.vercel.app/api?username=SC136&cc=000&tc=fff&ic=fff&bc=000" height="150"/>
   </a>
@@ -71,7 +71,7 @@
 
 Anime, programming, memes, gaming.
 
-<p>
+<p align="center">
   <a href="https://discord.gg/UVWjuAh">
     <img alt="Join the Annoyance & Ignorance Discord server" src="https://invidget.switchblade.xyz/UVWjuAh" />
   </a>
